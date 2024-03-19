@@ -2,7 +2,7 @@
 
 ## Overview
 Coin Game is a simple console-based game where players take turns to flip coins and accumulate points based on the outcomes of their flips. The player with the highest score at the end of the game wins.
-[##](https://basiccoingame.netlify.app/)
+https://basiccoingame.netlify.app/
 
 ## Features
 - **Player Interaction:** Players can take turns to flip coins and accumulate points.
